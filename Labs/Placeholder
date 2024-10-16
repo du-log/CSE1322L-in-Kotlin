@@ -1,0 +1,5 @@
+class Placeholder {
+  fun main() {
+    println("Hello world!")
+  }
+}
