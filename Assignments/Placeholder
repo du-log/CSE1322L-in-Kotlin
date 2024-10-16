@@ -1,4 +1,4 @@
-class Placeholder() {
+class Placeholder {
   fun main() {
     println("Hello world!")
   }
